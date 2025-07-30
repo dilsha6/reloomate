@@ -25,23 +25,6 @@ https://github.com/user-attachments/assets/534fd452-09ff-4899-9b59-8892e158edeb
 - **React Navigation** for screen transitions
 - **Styled Components** or **StyleSheet** for styling
 
-## 🧑‍💻 Project Structure
-
-reloomate/
-├── app/
-│ ├── index.js # Splash screen
-│ ├── sign-in.js # Sign-in screen
-│ ├── get-started-1.js # Onboarding 1
-│ ├── get-started-2.js # Onboarding 2
-│ ├── get-started-3.js # Onboarding 3
-│ ├── get-started.js # Pager for onboarding
-│ └── _layout.js # Navigation entry point
-├── assets/
-│ ├── images/
-│ │ ├── wall.jpg
-│ │ └── logo.png
-├── package.json
-└── README.md
 
 ## 🔧 Installation
 
